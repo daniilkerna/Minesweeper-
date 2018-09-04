@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Image" translatesAutoresizingMaskIntoConstraints="NO" id="n3u-m9-aXa">
+                                <rect key="frame" x="97" y="243.5" width="180" height="180"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="n3u-m9-aXa" secondAttribute="height" multiplier="1:1" id="PoF-LP-wWw"/>
+                                </constraints>
+                            </imageView>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Minesweeper" textAlignment="natural" adjustsFontForContentSizeCategory="YES" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="8Wr-s9-6nu">
+                                <rect key="frame" x="70" y="133.5" width="235" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="235" id="3qp-D4-p1T"/>
+                                    <constraint firstAttribute="height" constant="50" id="kxR-dY-RoA"/>
+                                </constraints>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" type="system" pointSize="40"/>
+                                </variation>
+                            </textField>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="HardCore" translatesAutoresizingMaskIntoConstraints="NO" id="CX4-WM-QGM">
+                                <rect key="frame" x="87" y="434" width="200" height="80"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="200" id="Ow9-iD-4qW"/>
+                                    <constraint firstAttribute="height" constant="80" id="bd4-ew-XPh"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="CX4-WM-QGM" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="4cE-Ss-VVb"/>
+                            <constraint firstItem="8Wr-s9-6nu" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="4tY-pm-Wge"/>
+                            <constraint firstItem="CX4-WM-QGM" firstAttribute="top" secondItem="n3u-m9-aXa" secondAttribute="bottom" constant="10" id="C5u-bo-hdt"/>
+                            <constraint firstItem="n3u-m9-aXa" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="JRh-Wg-3LJ"/>
+                            <constraint firstItem="n3u-m9-aXa" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="Z7h-oc-Acf"/>
+                            <constraint firstItem="n3u-m9-aXa" firstAttribute="top" secondItem="8Wr-s9-6nu" secondAttribute="bottom" constant="60" id="diP-WK-Ps5"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="374.66266866566718"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="HardCore" width="300" height="126"/>
+        <image name="Image" width="180" height="180"/>
+    </resources>
+</document>
