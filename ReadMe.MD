@@ -15,7 +15,7 @@ You win When:
 
 ## Screenshots
 
-1. ![](/pics/Splash.png =200x100)
+1. ![](./pics/Splash.png =200x100)
 
 
 2. ![Alt text](/pics/Menu.png =200x100)
