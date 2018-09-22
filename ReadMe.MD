@@ -26,4 +26,9 @@ You win When:
 
 4. ![Alt text](/pics/GameOver.png =200x100)
 
+<img src="./pics/Splash.png" width="200" height="200" />
+<img src="./pics/Menu.png" width="200" height="200" />
+<img src="./pics/Game.png" width="200" height="200" />
+<img src="./pics/GameOver.png" width="200" height="200" />
+
 
