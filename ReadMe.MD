@@ -17,5 +17,5 @@ You win When:
 
 ![Alt text](/pics/Splash.png "SS1\n")
 ![Alt text](/pics/Menu.png "SS2\n")
-![Alt text](/pics/Game.png.png "SS3" )
+![Alt text](/pics/Game.png "SS3" )
 ![Alt text](/pics/GameOver.png "SS4" )
