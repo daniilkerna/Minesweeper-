@@ -1,4 +1,6 @@
-Created by by:Alberto Clara and Daniil Kernazhytski
+## Team Members:  created by:Alberto Clara and Daniil Kernazhytski
+
+## Rules:
 
 Minesweeper Game 
 
@@ -10,3 +12,9 @@ Standard Rules Except:
 You win When:
 1. The time has not ran out AND
 2. Every tile that is not a mine is revealed 
+
+## Screenshots
+
+![Alt text](/GameOverScreenshot.png.png "SS1")
+![Alt text](/GameScreenShot.png "SS2")
+![Alt text](/MenuScreenshot.png "SS3" )
