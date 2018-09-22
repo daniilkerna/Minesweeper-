@@ -15,20 +15,9 @@ You win When:
 
 ## Screenshots
 
-1. ![](./pics/Splash.png =200x100)
-
-
-2. ![Alt text](/pics/Menu.png =200x100)
-
-
-3. ![Alt text](/pics/Game.png =200x100)
-
-
-4. ![Alt text](/pics/GameOver.png =200x100)
-
-<img src="./pics/Splash.png" width="200" height="200" />
-<img src="./pics/Menu.png" width="200" height="200" />
-<img src="./pics/Game.png" width="200" height="200" />
-<img src="./pics/GameOver.png" width="200" height="200" />
+<img src="./pics/Splash.png" width="300" height="600" />
+<img src="./pics/Menu.png" width="300" height="600" />
+<img src="./pics/Game.png" width="300" height="600" />
+<img src="./pics/GameOver.png" width="300" height="600" />
 
 
