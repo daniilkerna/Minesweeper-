@@ -14,10 +14,13 @@ You win When:
 2. Every tile that is not a mine is revealed 
 
 ## Screenshots
-
+<hr>
 <img src="./pics/Splash.png" width="300" height="600" />
+<hr>
 <img src="./pics/Menu.png" width="300" height="600" />
+<hr>
 <img src="./pics/Game.png" width="300" height="600" />
+<hr>
 <img src="./pics/GameOver.png" width="300" height="600" />
 
 
