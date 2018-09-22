@@ -1,4 +1,4 @@
-## Team Members:  created by:Alberto Clara and Daniil Kernazhytski
+## Team Members:  created by: Daniil Kernazhytski and Alberto Clara
 
 ## Rules:
 
