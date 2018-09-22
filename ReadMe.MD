@@ -15,6 +15,6 @@ You win When:
 
 ## Screenshots
 
-![Alt text](/GameOverScreenshot.png.png "SS1")
+![Alt text](/GameOverScreenshot.png "SS1")
 ![Alt text](/GameScreenShot.png "SS2")
-![Alt text](/MenuScreenshot.png "SS3" )
+![Alt text](/MenuScreenShot.png "SS3" )
