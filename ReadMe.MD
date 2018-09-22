@@ -15,15 +15,15 @@ You win When:
 
 ## Screenshots
 
-1. ![Alt text](/pics/Splash.png "SS1\n")
+1. ![Alt text](/pics/Splash.png =200x100)
 
 
-2. ![Alt text](/pics/Menu.png "SS2\n")
+2. ![Alt text](/pics/Menu.png =200x100)
 
 
-3. ![Alt text](/pics/Game.png "SS3" )
+3. ![Alt text](/pics/Game.png =200x100)
 
 
-4. ![Alt text](/pics/GameOver.png "SS4" )
+4. ![Alt text](/pics/GameOver.png =200x100)
 
 
